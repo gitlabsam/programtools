@@ -1,4 +1,4 @@
-#用MultiTail查看多个日志
+# 用MultiTail查看多个日志
 参考源码 <https://github.com/flok99/multitail>
 
 * 安装
@@ -71,7 +71,7 @@ the files <b>/etc/hosts.[allow|deny]</b> on host B to only allow host A to conne
 
 
 -------------------------------------------------------------------------------
-##附帮助文档（man multitail指令的输出结果）
+## 附帮助文档（man multitail指令的输出结果）
 
 
 MULTITAIL(1)                                                                                                            General Commands Manual                                                                                                            MULTITAIL(1)
@@ -356,3 +356,4 @@ NOTES
        This page describes MultiTail as found in the multitail-4.3.1 package; other versions may differ slightly.  Mail corrections and additions to folkert@vanheusden.com.  Report bugs in the program to folkert@vanheusden.com.
 
 MultiTail                                                                                                                       2007-02                                                                                                                    MULTITAIL(1)
+## THE END
